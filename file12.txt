@@ -1,1 +1,3 @@
 new file12 text file on remote
+new file12 txt created on local repo
+
